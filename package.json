@@ -3,6 +3,7 @@
 	"author": "atms",
 	"description": "A project that will teach me to code backend",
 	"keywords": ["freecodecamp", "learning", "backend"],
+	"license": "ATMS",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
